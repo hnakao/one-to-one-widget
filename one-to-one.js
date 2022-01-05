@@ -3,9 +3,9 @@
             js = d.createElement(s), fjs = d.getElementsByTagName(s)[0];
             js.id = o; js.src = f; js.async = 1; fjs.parentNode.insertBefore(js, fjs);
             } 
-        (window, document, "script", "onliveW", "https://qm349k-cdn.onlive.site/widget-staging/v1/staging-onlive-widget.js")
+        (window, document, "script", "onliveW", "https://cdn.onlive.site/widget/v1/onlive-widget.js")
         );
         onliveW("init", {
             targetElementId: "onlive-widget",
-            organizationId: "ec6423cb-5724-4418-a9ea-b3650fea2e34",
+            organizationId: "c76e17c5-efee-4bd1-a4ac-be995230b3ab",
     })
